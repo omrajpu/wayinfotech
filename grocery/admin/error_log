@@ -1,0 +1,7 @@
+[07-Sep-2018 08:20:11 America/Chicago] PHP Fatal error:  Call to a member function get_property_name() on null in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Property/controllers/Property.php on line 39
+[07-Sep-2018 08:21:07 America/Chicago] PHP Fatal error:  Call to a member function get_property_name() on null in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Property/controllers/Property.php on line 39
+[07-Sep-2018 08:21:13 America/Chicago] PHP Fatal error:  Call to a member function get_property_name() on null in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Property/controllers/Property.php on line 39
+[07-Sep-2018 08:22:20 America/Chicago] PHP Fatal error:  Call to a member function get_property_name() on null in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Property/controllers/Property.php on line 80
+[07-Sep-2018 08:22:25 America/Chicago] PHP Fatal error:  Call to a member function get_property_name() on null in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Property/controllers/Property.php on line 39
+[07-Sep-2018 08:46:31 America/Chicago] PHP Fatal error:  Call to a member function save_booking_data() on null in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Property/controllers/Property.php on line 102
+[14-Sep-2018 06:41:20 America/Chicago] PHP Fatal error:  Call to undefined method Shop_model::get_all_shopping_orders() in /home1/etsofqzn/public_html/nicalu/admin/application/modules/Shop/controllers/Shop.php on line 47

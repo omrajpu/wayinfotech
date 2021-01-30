@@ -1,0 +1,42 @@
+[16-Sep-2017 22:37:09 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[16-Sep-2017 22:37:10 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[23-Sep-2017 22:36:16 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[23-Sep-2017 22:36:16 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[30-Sep-2017 22:36:22 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[30-Sep-2017 22:36:22 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[07-Oct-2017 22:36:46 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[07-Oct-2017 22:36:46 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[14-Oct-2017 22:36:56 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[14-Oct-2017 22:36:56 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[21-Oct-2017 22:36:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[21-Oct-2017 22:36:02 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[28-Oct-2017 22:36:47 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[28-Oct-2017 22:36:47 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[04-Nov-2017 22:36:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/footer.php on line 3
+[04-Nov-2017 22:36:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/go2fly/public_html/sctechnologies.in/test_tripexpress/application/views/include/header.php on line 7
+[11-Nov-2017 22:46:14 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/footer.php on line 3
+[11-Nov-2017 22:46:14 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/header.php on line 7
+[18-Nov-2017 22:45:42 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/footer.php on line 3
+[18-Nov-2017 22:45:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/header.php on line 7
+[25-Nov-2017 22:46:23 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/footer.php on line 3
+[25-Nov-2017 22:46:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/header.php on line 7
+[02-Dec-2017 22:47:11 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/footer.php on line 3
+[02-Dec-2017 22:47:11 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2b/application/views/include/header.php on line 7
+[09-Dec-2017 22:48:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[09-Dec-2017 22:48:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[16-Dec-2017 22:47:38 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[16-Dec-2017 22:47:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[23-Dec-2017 22:47:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[23-Dec-2017 22:47:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[30-Dec-2017 22:54:25 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[30-Dec-2017 22:54:25 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[06-Jan-2018 22:46:43 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[06-Jan-2018 22:46:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[13-Jan-2018 22:48:43 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[13-Jan-2018 22:48:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[20-Jan-2018 22:48:20 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[20-Jan-2018 22:48:20 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[27-Jan-2018 22:58:50 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[27-Jan-2018 22:58:50 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7
+[03-Feb-2018 22:57:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/footer.php on line 3
+[03-Feb-2018 22:57:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/solution/public_html/anil_extranet/tour_b2c_b2bs/application/views/include/header.php on line 7

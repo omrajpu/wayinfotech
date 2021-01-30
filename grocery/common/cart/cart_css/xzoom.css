@@ -1,0 +1,179 @@
+/* Compatibility styles for frameworks like bootstrap, foundation e.t.c */
+.xzoom-source img,
+.xzoom-preview img,
+.xzoom-lens img {
+    display: block;
+    max-width: none;
+    max-height: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+/* --------------- */
+
+/* xZoom Styles below */
+.xzoom-container {
+    display: inline-block;
+}
+
+/*.xzoom-thumbs {
+    margin-top: 20px;
+
+}*/
+
+/*.xzoom {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}*/
+.xzoom2,
+.xzoom3,
+.xzoom4,
+.xzoom5 {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+/* Thumbs */
+.xzoom-gallery,
+.xzoom-gallery2,
+.xzoom-gallery3,
+.xzoom-gallery4,
+.xzoom-gallery5 {
+    border: 1px solid #cecece;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.xzoom-source,
+.xzoom-hidden {
+    display: block;
+    position: static;
+    float: none;
+    clear: both;
+}
+
+/* Everything out of border is hidden */
+.xzoom-hidden {
+    overflow: hidden;
+}
+
+/* Preview */
+.xzoom-preview {
+    border: 1px solid #fff;
+    background: #2f4f4f;
+    box-shadow: -0px -0px 2px rgba(0, 0, 0, 0.50);
+}
+
+/* Lens */
+/*.xzoom-lens {
+    border: 1px solid #555;
+    box-shadow: -0px -0px 10px rgba(0, 0, 0, 0.50);
+    cursor: crosshair;
+}*/
+
+/* Loading */
+.xzoom-loading {
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    opacity: .7;
+    background: url(../images/xloading.gif);
+    width: 48px;
+    height: 48px;
+}
+
+/* Additional class that applied to thumb when it is active */
+.xactive {
+    border: 1px solid #ff9400;
+}
+
+/* Caption */
+.xzoom-caption {
+   /* position: absolute;
+ bottom: -43px;
+ left: 0;
+ background: #000;
+ width: 100%;
+ text-align: left;*/
+    display: none;
+}
+
+/*.xzoom-caption span {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    padding: 10px;
+}*/
+
+/*View page Change background css*/
+
+.change-images {
+    margin-top: 20px;
+}
+
+.change-images ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.change-images ul li {
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+.change-images img {
+    width: 90px;
+    border-radius: 7px;
+}
+
+.change-images p {
+    text-align: center;
+    font-size: 12px;
+}
+
+.add-section {
+    font-size: 15px;
+    padding: 7px 20px;
+    float: right;
+    background: #e4901a;
+    color: #fff;
+}
+
+#field1 h4 {}
+
+.qty-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    border: 0;
+    background: #bda804;
+    color: #fff;
+}
+
+.qty-input {
+    padding: 3px 10px;
+    border: 1px solid #e2e2e2;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+div#field1 h4 {
+    padding: 8px 11px;
+    font-size: 15px;
+    background: #da6804;
+    color: #fff;
+}
+
+/*View page Change background css*/

@@ -1,0 +1,197 @@
+.btn-round {
+    background-color: #01df7c;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#01df7c), to(#03bca1));
+    background-image: -webkit-linear-gradient(top, #01df7c, #03bca1);
+    background-image: -moz-linear-gradient(top, #01df7c, #03bca1);
+    background-image: -ms-linear-gradient(top, #01df7c, #03bca1);
+    background-image: -o-linear-gradient(top, #01df7c, #03bca1);
+    background-image: linear-gradient(top, #01df7c, #03bca1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#01df7c', endColorStr='#03bca1');
+    box-shadow: 0 2px 10px 0 rgba(2, 200, 148, 0.4);
+    color: #fff;
+    border-radius: 44px;
+}
+
+button.btn.btn-success.btn-round.pl-4.pr-4.pt-2 {
+    font-size: 14px;
+    padding: 0 0 7px;
+}
+
+.card-div {
+    box-shadow: 0 2px 5px 0 rgb(156, 154, 154);
+    text-align: center;
+    background-image: url('https://backgrounddownload.com/wp-content/uploads/2018/09/bohemian-background-png-6.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+.card-div h3 {
+    letter-spacing: 2px;
+    font-weight: 400
+}
+
+p.cursive {
+    font-family: cursive
+}
+
+.card-div h3,
+p.cursive,
+.card-div p {
+    border: 2px dashed transparent;
+}
+
+.card-text {
+    width: 300px;
+    margin: 0 auto
+}
+
+.card-div:hover h3,
+p.cursive:hover,
+.card-div:hover p {
+    border: 2px dashed #7777;
+}
+
+.save-draft a {
+    color: red;
+    font-weight: bold;
+    margin-top: 12px;
+    font-size: 16px
+}
+
+.hide {
+    display: none;
+    z-index: 9999;
+    position: relative
+}
+
+.color-thumb {
+    border: 2px solid transparent;
+    pointer-events: none;
+}
+
+.color-thumb {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border-radius: 100%;
+    border: 2px solid #e8e8e8;
+    margin: 2px;
+}
+
+.form-group.font-family select {
+    background: #f2f2f2;
+    border-radius: 50px;
+    border: 0;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 10px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    background: #000;
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+.pull-right {
+    float: right;
+}
+
+.font-size,
+.font-size p {
+    margin: 0;
+    width: 100%;
+    height: 0;
+}
+
+.font-size p {
+    font-size: 15px;
+}
+
+.font-size p span {
+    font-size: 20px;
+}
+
+.color-round ul {
+    margin: 0;
+    padding: 0;
+}
+
+.color-round ul a li {
+    width: 15px;
+    height: 15px;
+    margin-right: 3px;
+    display: inline-block;
+    background: #f2f2f2;
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+}
+
+.color-round ul a li.red {
+    background: #ff2828;
+}
+
+.color-round ul a li.blue {
+    background: #2d28ff;
+}
+
+.color-round ul a li.green {
+    background: #2fbf0d;
+}
+
+.color-round ul a li.pink {
+    background: #dc008c;
+}
+
+.alignment p {
+    display: inline-block;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.alignment {
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #dadada;
+    border-right-color: transparent;
+    border-left-color: transparent;
+}
+
+p.align-center {
+    width: 70%;
+    text-align: center;
+}
+
+.next-btn {
+    font-size: 16px;
+    padding: 0 34px;
+}

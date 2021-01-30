@@ -1,0 +1,51 @@
+.contact-page {
+    position: relative;
+}
+
+.paper {
+    position: relative;
+    height: 530px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0 5px #efefef;
+}
+
+.paper::before {
+    content: '';
+    position: absolute;
+    left: 45px;
+    height: 100%;
+    width: 2px;
+    background: rgba(255, 0, 0, 0.4);
+}
+
+.lines {
+    height: 100%;
+    width: 100%;
+    background-image: repeating-linear-gradient(white 0px, white 24px, steelblue 25px);
+}
+
+.Lettertext {
+    position: absolute;
+    top: 48px;
+    left: 55px;
+    bottom: 10px;
+    right: 10px;
+    line-height: 25px;
+    font-family: 'Bad Script', cursive;
+    font-weight: bold;
+    overflow: hidden;
+    outline: none;
+}
+
+.contact-page-submit {
+    padding: 14px 30px;
+    border-radius: 50px;
+    border: none;
+    background: #f58700;
+    color: #fff;
+}
+
+.card.contact-card {
+    box-shadow: 0 0 10px #efefef;
+}

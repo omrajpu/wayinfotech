@@ -1,0 +1,27 @@
+[25-Sep-2020 10:11:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/controllers/Categoery_api.php on line 18
+[28-Sep-2020 04:51:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/controllers/Categoery_api.php on line 21
+[28-Sep-2020 04:51:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/controllers/Categoery_api.php on line 21
+[14-Oct-2020 10:16:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/controllers/Cart_details_api.php on line 15
+[14-Oct-2020 10:16:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/controllers/Cart_details_api.php on line 15
+[06-Nov-2020 06:46:40 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:47:26 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:47:44 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:47:57 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:52:42 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:52:52 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:53:08 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:53:22 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:53:48 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:54:35 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:56:03 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:57:23 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 06:58:23 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:00:43 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:01:29 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:03:06 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:04:13 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:04:41 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:05:07 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:08:49 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:09:58 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129
+[06-Nov-2020 07:10:48 UTC] PHP Fatal error:  Cannot redeclare Checkout_model::update_password() in /home/rj7ir163apgq/public_html/stage/lugyimin/api/application/models/Checkout_model.php on line 129

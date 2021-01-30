@@ -1,0 +1,27 @@
+[27-Sep-2018 03:24:03 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home1/etsofqzn/public_html/nicalu/application/modules/Checkout/controllers/Checkout.php on line 31
+[27-Sep-2018 04:57:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/etsofqzn/public_html/nicalu/application/modules/Checkout/views/checkout.php on line 96
+[27-Sep-2018 05:14:09 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/etsofqzn/public_html/nicalu/application/modules/Checkout/views/step_3.php on line 120
+[31-Jul-2020 09:27:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php on line 658 and defined in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php on line 190
+[01-Aug-2020 08:21:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php on line 658 and defined in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php on line 190
+[02-Sep-2020 12:08:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php on line 658 and defined in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php on line 190
+[02-Sep-2020 12:08:53 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php on line 658 and defined in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/rj7ir163apgq/public_html/stage/jamairaja/system/core/Exceptions.php on line 190
